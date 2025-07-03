@@ -11,8 +11,6 @@ The **Digital Sales Performance Dashboard** helps businesses and analysts:
 - Identify high-performing marketing channels
 - Track customer satisfaction using NPS scores
 
----
-
 ## 🧩 Dashboard Features
 
 ### ✅ Key Metrics
@@ -35,15 +33,11 @@ The **Digital Sales Performance Dashboard** helps businesses and analysts:
   - Gender
   - Platform
 
----
-
 ## 🛠 Tools & Technologies
 - **Power BI**
 - **DAX** (Data Analysis Expressions)
 - **Data Cleaning & Modeling**
 - CSV & Excel data sources (not included here for privacy)
-
----
 
 ## 📷 Dashboard Snapshot
 
